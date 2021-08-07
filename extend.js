@@ -9,7 +9,7 @@
  * @fileoverview
  * Port of jQuery.extend that actually works on node.js
  */
-import { is } from "./is";
+import { is } from "./is.js";
 
 var extend = function extend() {
   var target = arguments[0] || {};
