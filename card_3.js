@@ -1,6 +1,6 @@
-import { QJ } from "./qj";
-import { Payment } from "./payment";
-import { extend } from "./extend";
+import { QJ } from "./qj.js";
+import { Payment } from "./payment.js";
+import { extend } from "./extend.js";
 
 var Card = (function() {
   let bindVal = undefined;
