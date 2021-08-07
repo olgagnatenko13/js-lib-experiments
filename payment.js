@@ -1,4 +1,4 @@
-import { QJ } from "./qj";
+import { QJ } from "./qj.js";
 
 const defaultFormat = /(\d{1,4})/g;
 
