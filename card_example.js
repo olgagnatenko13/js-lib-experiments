@@ -1,8 +1,8 @@
 // import { Card } from "./card_3.js";
-import { Card } from 'https://raw.githubusercontent.com/olgagnatenko13/js-lib-experiments/main/card_3.js';
+import { Card } from './card_3.js';
 
 // import { Payment } from "./payment_2.js";
-import { Payment } from 'https://raw.githubusercontent.com/olgagnatenko13/js-lib-experiments/main/payment.js';
+import { Payment } from './payment.js';
 
 console.log('start main script');
 
